@@ -14,10 +14,11 @@ I am a dedicated **Full Stack Engineer** with a passion for building robust, sec
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Backend & Architecture** | ![Node.js](https://shields.io) ![NestJS](https://shields.io) ![Express](https://shields.io) ![Spring Boot](https://shields.io) ![Java](https://shields.io) |
-| **Frontend & Mobile** | ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![React Native](https://shields.io) |
-| **Databases & ORMs** | ![PostgreSQL](https://shields.io) ![Prisma](https://shields.io) ![MongoDB](https://shields.io) |
-| **DevOps & Infrastructure** | ![Git](https://shields.io) ![Docker](https://shields.io) ![GitHub Actions](https://shields.io) |
+| **Backend & Architecture** | <img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="NestJS" /> <img src="https://shields.io" alt="Express" /> <img src="https://shields.io" alt="Spring Boot" /> <img src="https://shields.io" alt="Java" /> |
+| **Frontend & Mobile** | <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="React Native" /> |
+| **Databases & ORMs** | <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Prisma" /> <img src="https://shields.io" alt="MongoDB" /> |
+| **DevOps & Infrastructure** | <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="GitHub Actions" /> |
+
 
 ---
 
