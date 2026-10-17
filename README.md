@@ -5,7 +5,7 @@ I am a dedicated **Full Stack Engineer** with a passion for building robust, sec
 ---
 
 ### 🚀 Current Projects & Focus
-* 🏗️ **Active Development**: [Resale] — Brief 1-sentence summary of your current build focus (e.g., *Architecting a secure NestJS logistics platform using automated scraping workflows*).
+* 🏗️ **Active Development**: **Resale** — Architecting and engineering full-stack solutions with highly secure workflows and automated data management.
 * 🔧 **Maintenance**: Exploring optimization strategies, tuning database indexes, and hardening authentication filters across my active codebases.
 
 ---
@@ -33,4 +33,4 @@ I am a dedicated **Full Stack Engineer** with a passion for building robust, sec
 * 💬 **Ask me about**: NestJS dependency injection strategies, Spring Boot security filter chains, or cross-platform mobile development.
 * 📫 **How to reach me**: Drop an issue on my repositories or find me via my connected social profile links on the sidebar!
 
-*“Building elegant solutions to complex data problems, one commit at a time.”*
+_“Building elegant solutions to complex data problems, one commit at a time.”_
